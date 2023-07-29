@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dara\\Desktop\\C# lectures\\examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
+    "c:\\Users\\Dara\\Desktop\\C# lectures\\examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dara\\Desktop\\C# lectures\\examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
+    "c:\\Users\\Dara\\Desktop\\C# lectures\\examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dara\\Desktop\\C# lectures\\examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectUniqueName": "c:\\Users\\Dara\\Desktop\\C# lectures\\examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "projectName": "Example001_HelloConsole",
-        "projectPath": "C:\\Users\\Dara\\Desktop\\C# lectures\\examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectPath": "c:\\Users\\Dara\\Desktop\\C# lectures\\examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\Dara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dara\\Desktop\\C# lectures\\examples\\Example001_HelloConsole\\obj\\",
+        "outputPath": "c:\\Users\\Dara\\Desktop\\C# lectures\\examples\\Example001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dara\\AppData\\Roaming\\NuGet\\NuGet.Config"
